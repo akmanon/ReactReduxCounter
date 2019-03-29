@@ -1,2 +1,0 @@
-# ReactReduxCounter
-Created with CodeSandbox
